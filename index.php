@@ -100,7 +100,7 @@
  
 
 echo '<center><a href="http://www.buero.or.at/wordpress/index.php/impressum">Impressum</a></center>'; 
-echo '<center><a href="http://http://www.buero.or.at/wordpress/index.php/datenschutzerklaerung-2/">Datenschutz</a></center>'; 
+echo '<center><a href="http://www.buero.or.at/wordpress/index.php/datenschutzerklaerung-2/">Datenschutz</a></center>'; 
 echo '<center><a href="https://cloud.buero.or.at/support/">Support</a></center>';
 
-echo "Copyright © <script>document.write(new Date().getFullYear())</script> Magento. All rights reserved."
+echo "Copyright Â© <script>document.write(new Date().getFullYear())</script> Magento. All rights reserved."
